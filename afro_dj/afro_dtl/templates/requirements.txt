@@ -1,0 +1,4 @@
+Django templating langage (jinja-2) is a backend that allows us to use html
+
+variables 
+css in styling
